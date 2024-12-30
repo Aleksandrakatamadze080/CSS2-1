@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#Lists {
+    display: inline-block;
+    list-style-type: none;
+    margin: 12px 180px;
+}
+
+#navigacia {
+    margin: 12px 80px;
+    display: inline-block;
+    
+}
+
+#Product, #Services, #Resources, #Offers {
+    display: inline-block;
+    padding-left: 20px;
+    color: #323232;
+    font-size: 18px;
+
+   
+}
+
+#image {
+    width: 146px;
+    height: 40px;
+    margin-bottom: -5px;
+    display: inline-block;
+}
+
+#us {
+    display: inline-block;
+    padding: 8px 16px;
+    color:  #AC00FF;
+    background-color: #E9D7FE;
+    border-radius: 8px;
+    border: 1px solid #AC00FF;
+    font-size: 14px;
+    text-align: right;
+    
+}
+
+#simple {
+    margin-left: 214px;
+    margin-top: 64px;
+    width: 842px;
+    display: inline-block;
+}
+
+
+#credit {
+    color: #323232;
+    font-family: Impact;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 74px;
+    text-align: left;
+    padding-right: 100px;
+}
+
+#no {
+    color: #323232;
+    font-size: 24px;
+    text-align: left;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    padding-right: 50px;
+}
+
+#Joinnow {
+    width: 204px;
+    border-radius: 8px;
+    background: #5C3BAE;
+    padding: 16px 24px;
+    color: #FFF;
+    font-size: 18px;
+    margin-top: 24px;
+    margin-right: 24px;
+}
+
+
+
+#play {
+    margin-bottom: -10px;
+
+}
+
+#in {
+    padding-left: 12px;
+    font-size: 18px;
+    color: #4D3491;
+}
+
+#on{
+   margin-left: 610px;
+   max-width: 1311px;
+}
+
+#cards {
+    width: 100%;
+    margin-top: -130px;
+}
